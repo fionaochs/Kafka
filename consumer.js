@@ -22,7 +22,6 @@ try {
   );
   //when new message comes...
   consumer.on('message', async function(message) {
-    console.log('here');
     console.log(
       'kafka-> ',
       message.value
