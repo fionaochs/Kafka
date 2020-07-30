@@ -1,5 +1,5 @@
 # Kafka Cluster running in NodeJS
-# first time using Kafka, example cluster to send and receive messages
+## first time using Kafka, example cluster to send and receive messages
 
 # Download Kafka from https://kafka.apache.org/
 # using Scala 2.13  - kafka_2.13-2.5.0.tgz (asc, sha512)
